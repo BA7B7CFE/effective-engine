@@ -1,0 +1,56 @@
+{
+  "url": "https://seguridadhigienetdf.com/",
+  "empresa": "SAN JOSE",
+  "title": "SAN JOSE | Higiene &amp; Seguridad",
+  "description": "Consultoría de Seguridad e Higiene",
+  "phone": "+54-2964-620559",
+  "email": "gjsobrino@hotmail.com",
+  "facebook": "https://www.facebook.com/seguridadhigienetdf",
+  "address": "Tierra del Fuego",
+  "nav": [
+    {
+      "a": "Servicios",
+      "href": "/servicios"
+    },
+    {
+      "a": "Nosotros",
+      "href": "/nosotros"
+    },
+    {
+      "a": "Contacto",
+      "href": "/contacto"
+    }
+  ],
+  "carousel": [
+    {
+      "img": "/assets/img/carousel/seguridad-e-higiene.jpg",
+      "h1": "Seguridad e Higiene",
+      "p": "Brindamos servicio externo, Consultoría Técnica y Atención Personalizada.",
+      "href": "/seguridad-e-higiene/"
+    },
+    {
+      "img": "/assets/img/carousel/seguridad-en-la-construccion.jpg",
+      "h1": "Seguridad en la Construcción",
+      "p": "Realizamos Programas de Seguridad, Decreto 911/96 y Aviso inicio de obra.",
+      "href": "/seguridad-en-la-construccion/"
+    },
+    {
+      "img": "/assets/img/carousel/control-de-incendios.jpg",
+      "h1": "Control de Incendios",
+      "p": "Carga de fuego, Redes de hidrantes, Sistemas electrónicos de detección y Sistemas automáticos de extinción con agentes limpios",
+      "href": "/control-de-incendios/"
+    },
+    {
+      "img": "/assets/img/carousel/seguridad-en-servicios-de-salud.jpg",
+      "h1": "Seguridad en Servicios de Salud",
+      "p": "Bioseguridad, Residuos patológicos, Radiaciones ionizantes, Medicación citotóxica, Gases medicinales y anestésicos, y mas.",
+      "href": "/seguridad-en-servicios-de-salud/"
+    },
+    {
+      "img": "/assets/img/carousel/medio-ambiente.jpg",
+      "h1": "Medio Ambiente",
+      "p": "Evaluaciones de impacto ambiental y Certificado ley provincial N° 105",
+      "href": "/medio-ambiente/"
+    }
+  ]
+}
